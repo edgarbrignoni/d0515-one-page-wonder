@@ -1,0 +1,6 @@
+.big-background {
+    background: grey url("http://projects.breatheco.de/p/css/junior/bootstrap/one-page/img/bg.jpg") no-repeat center;
+    background-size: cover;
+    color: white;
+    padding: 350px 0;
+}
